@@ -1,0 +1,16 @@
+
+লাইভ ক্লাস
+
+১৯ ডিসে, রাত ৯:০০
+
+এটেন্ড্যান্স স্কোর যুক্ত হবে
+
+Database Design: Ordering, Grouping, Pagination, and Relationships
+
+টপিক:
+
+laravel model pagination | laravel model relationship | laravel model relationship | laravel model grouping | laravel model ordering
+
+নোট:
+
+Ordering Grouping Limiting | Pagination, Custom Pagination | One-to-One (1:1), One-
